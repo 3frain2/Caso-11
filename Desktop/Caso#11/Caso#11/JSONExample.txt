@@ -1,0 +1,28 @@
+{	
+	"anchura": 2,
+	"profundidad": 1,
+	"URLs": [
+		{
+		"url": "https://es.wikipedia.org/wiki/Felis_silvestris_catus"
+		},
+		{
+		"url": "https://capakhine.es/index.php/blog/214-5-trucos-de-apertura-para-ganar-al-ajedrez-dejando-boquiabiertos-a-tus-rivales"
+		},
+		{
+		"url": "https://www.olx.co.cr/perros-gatos-cat-812"
+		},
+		{
+		"url": "https://es.wikipedia.org/wiki/Felis_silvestris_catus"
+		},
+		{
+		"url": "https://es.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart"
+		},
+		{
+		"url": "https://es.wikipedia.org/wiki/JoJo%27s_Bizarre_Adventure"
+		},
+		{
+		"url": "https://minecraft-es.gamepedia.com/Minecraft_Wiki"
+		}
+		]
+	}
+}
